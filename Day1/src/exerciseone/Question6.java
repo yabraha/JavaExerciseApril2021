@@ -1,3 +1,4 @@
+//Write a Java program to compute the specified expressions and print theoutput.
 package exerciseone;
 
 public class Question6 {

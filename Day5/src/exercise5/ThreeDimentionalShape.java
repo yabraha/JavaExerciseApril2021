@@ -1,4 +1,4 @@
-package Excercise5;
+package exercise5;
 
 public class ThreeDimentionalShape extends Polygon {
 

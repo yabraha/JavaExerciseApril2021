@@ -1,3 +1,5 @@
+//Write a Java program to check if an input string starts with “T”. If it is start with “T” print 
+//“Yes that is the string”, otherwise print “That is not the one”.
 package exercisetwo;
 
 import java.util.Scanner;

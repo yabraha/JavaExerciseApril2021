@@ -1,3 +1,5 @@
+//Write a program that takes a positive integer input and prints all the positive even number less 
+//than the number in order from big to small.(Use do while loop)
 package exercisethree;
 
 import java.util.Scanner;

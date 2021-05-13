@@ -1,3 +1,4 @@
+//Write a Java program to print the sum of two numbers.
 package exerciseone;
 
 public class Question2 {

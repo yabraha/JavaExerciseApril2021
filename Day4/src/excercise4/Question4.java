@@ -1,3 +1,4 @@
+//Write a Java program to copy an array by iterating the array
 package excercise4;
 
 import java.util.Arrays;
@@ -5,7 +6,7 @@ import java.util.Arrays;
 public class Question4 {
 
 	public static void main(String[] args) {
-		// Write a Java program to copy an array by iterating the array. 
+	 
 
 		int[] my_array = {45, 4, 34, 23, 12, 45};
 		   int[] new_array = new int[6];     

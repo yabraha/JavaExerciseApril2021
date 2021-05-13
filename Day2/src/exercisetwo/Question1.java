@@ -1,3 +1,4 @@
+//Write a Java program to concatenate a given string to the end of another string.
 package exercisetwo;
 
 public class Question1 {
@@ -9,7 +10,6 @@ public class Question1 {
 		
 		System.out.println(size + " "  + type);
 		
-
 	}
 
 }

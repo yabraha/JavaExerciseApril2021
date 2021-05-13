@@ -1,3 +1,4 @@
+//Write a Java program to get a number from the user and print whether it is positive or negative
 package exercisetwo;
 
 import java.util.Scanner;

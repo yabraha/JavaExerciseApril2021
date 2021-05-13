@@ -1,3 +1,4 @@
+//Write a Java program to test if an array contains aspecificvalue. 
 package excercise4;
 
 public class Question2 {

@@ -1,3 +1,5 @@
+//Write a Java program which reads two integers from the user and
+//prints the sum and difference both in their own line. 
 package exercisetwo;
 
 import java.util.Scanner;

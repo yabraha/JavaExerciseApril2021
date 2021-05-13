@@ -1,3 +1,4 @@
+//Write a program to print following **********(Use for loop)
 package exercisethree;
 
 public class Question2 {

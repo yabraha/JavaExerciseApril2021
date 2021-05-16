@@ -6,7 +6,7 @@ public class Question2 {
 	public static void main(String[] args) {
 //Write a Java program to test if an array contains a specific value.
 	    int[] num = {1, 2, 3, 4, 5};
-	    int toFind = 4;
+	    int toFind = 9;
 	    boolean found = false;
 
 	    for (int n : num) {
@@ -19,7 +19,7 @@ public class Question2 {
 	    if(found)
 	      System.out.println(toFind + " is found.");
 	    else
-	      System.out.println(toFind + " is not found.");
+	     System.out.println(toFind + " is not found.");
 	  }
 	}
 

@@ -66,6 +66,14 @@ public class Account {
 		
 }
 
+	public double getCredit() {
+		return credit;
+	}
+
+	public void setCredit(double credit) {
+		this.credit = credit;
+	}
+
 	public void credit(double creditAmount) {
 		balance = balance + creditAmount;
 	    System.out.println("Credit amount: " + creditAmount + " " + "New balance: " + balance);

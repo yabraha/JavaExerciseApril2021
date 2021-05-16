@@ -2,8 +2,6 @@
 package excercise4;
 
 public class Question3 {
-
-		// Write a Java program to find the index of an array element.
 		
 	
 	 public static int  findIndex (int[] myArray, int t) {
